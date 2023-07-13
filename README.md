@@ -1,7 +1,7 @@
 <img src="https://github.com/souparna-roy/souparna-roy/blob/79a05b63c09253a11fe5c1b4e68988c8bbbf1cbe/souparna-roy-github-intro.gif" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/souparna-roy/" target="blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
+<a href="https://www.linkedin.com/in/souparna-roy/" target="blank"><img width="32px" alt="LinkedIn" title="LinkedIn" target="blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://instagram.com/wrick_r?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /> </a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
