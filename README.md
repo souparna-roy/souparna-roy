@@ -48,7 +48,7 @@ Stay curious, stay coding, and let's shape the future together! 🌐💻🚀
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=souparna-roy&show_icons=true&theme=gruvbox)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souparna-roy&show_icons=true&locale=en&theme=gruvbox" alt="souparna-roy" /></p>
 
 <details>
  <summary><h3>👨‍💻 My Experiences</h3></summary>
