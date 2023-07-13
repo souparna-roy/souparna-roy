@@ -1,6 +1,4 @@
-<h1 align="center">Souparna Roy</h1>
-
-
+<img src="https://github.com/souparna-roy/souparna-roy/blob/main/souparna-roy-github-intro.gif?raw=true" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/souparna-roy/" target="blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
