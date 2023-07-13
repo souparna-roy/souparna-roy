@@ -1,4 +1,4 @@
-<img src="https://github.com/souparna-roy/souparna-roy/blob/main/souparna-roy-github-intro.gif?raw=true" />
+<img src="https://github.com/souparna-roy/souparna-roy/blob/79a05b63c09253a11fe5c1b4e68988c8bbbf1cbe/souparna-roy-github-intro.gif" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/souparna-roy/" target="blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
